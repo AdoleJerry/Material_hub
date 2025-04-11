@@ -1,0 +1,14 @@
+include: package:flutter_lints/flutter.yaml
+
+analyzer:
+  exclude:
+    - build/**
+    - .dart_tool/**
+    - packages/**
+    - test/**
+
+linter:
+  rules:
+    avoid_print: false
+    prefer_single_quotes: false
+    # Add other rules to disable as needed

@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "213396204983",
+    "project_id": "material-hub-3dfb4",
+    "storage_bucket": "material-hub-3dfb4.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:213396204983:android:0fb423360affec55a90c32",
+        "android_client_info": {
+          "package_name": "com.example.material_hub"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "213396204983-ea1ecffspk81icp7leiqq4gib3opvvds.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.material_hub",
+            "certificate_hash": "7cdff3086635702d765bc3cb253c2c427674c5ba"
+          }
+        },
+        {
+          "client_id": "213396204983-sjktoofhtmo1an4lt1ljdtfsciuqfs8q.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC9adto28sf78Wy-y3DBh4kPO7GJfYIak4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "213396204983-sjktoofhtmo1an4lt1ljdtfsciuqfs8q.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

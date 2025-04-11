@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "material-hub-3dfb4"
+  },
+  "targets": {},
+  "etags": {
+    "material-hub-3dfb4": {
+      "extensionInstances": {}
+    }
+  },
+  "dataconnectEmulatorConfig": {}
+}
